@@ -1,4 +1,5 @@
 # LastPing
+**Demo video (2:26):** https://youtu.be/0BEKFmEjDIM
 
 ## A dead-man's switch that listens for silence
 
