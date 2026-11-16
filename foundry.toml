@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc_version = "0.8.29"
+
+# LastPing — Reactive Omni Buildathon, "Set It and Forget It" track.
+# Base Sepolia (origin + destination, chain 84532) / Reactive Lasna (chain 5318007).
